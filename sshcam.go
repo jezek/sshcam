@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"sync"
 
-	flag "github.com/docker/docker/pkg/mflag"
+	flag "github.com/cocooma/mflag"
 	"github.com/kfei/sshcam/server/sshd"
 	webcam "github.com/kfei/sshcam/webcam/v4l2"
 )
